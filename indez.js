@@ -6,7 +6,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "HAAHHAHAHHA , olol";
+    question.innerHTML = "Ganyan mo ba ako gusto kalaro (^ ‿ ⁢*)";
     gif.src ="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; 
 
 });
